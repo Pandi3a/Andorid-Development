@@ -1,0 +1,10 @@
+<root>
+    <item name='com.google.android.gms.maps.model.LatLng'>
+        <annotation name='java.lang.annotation.Deprecated' />
+        <annotation name='org.jetbrains.annotations.NotNull' />
+    </item>
+    <item name='com.google.android.gms.maps.model.MarkerOptions'>
+        <annotation name='java.lang.annotation.Deprecated' />
+        <annotation name='org.jetbrains.annotations.Nullable' />
+    </item>
+</root>

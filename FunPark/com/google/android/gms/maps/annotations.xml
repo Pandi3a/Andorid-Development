@@ -1,0 +1,6 @@
+<root>
+    <item
+        name='com.google.android.gms.maps.GoogleMap com.google.android.gms.maps.model.Marker addMarker(com.google.android.gms.maps.model.MarkerOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull' />
+    </item>
+</root>
