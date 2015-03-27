@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="MONDAY"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:id="@+id/Img9to13"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="217dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_9" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="269dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_10" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="289dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_11" />
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="299dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_12" />
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="229dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_13" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/txt9to13"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <FrameLayout
+            android:layout_width="269dp"
+            android:layout_height="wrap_content" >
+
+            <LinearLayout
+                android:layout_width="292dp"
+                android:layout_height="307dp"
+                android:orientation="vertical" >
+
+                <EditText
+                    android:id="@+id/EditText39"
+                    android:layout_width="wrap_content"
+                    android:layout_height="57dp"
+                    android:editable="true"
+                    android:ems="10"
+                    android:hint="Module ID"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/EditText26"
+                    android:layout_width="wrap_content"
+                    android:layout_height="59dp"
+                    android:ems="10"
+                    android:hint="Module Type"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/EditText21"
+                    android:layout_width="wrap_content"
+                    android:layout_height="58dp"
+                    android:ems="10"
+                    android:hint="Room Number"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/EditText24"
+                    android:layout_width="wrap_content"
+                    android:layout_height="60dp"
+                    android:ems="10"
+                    android:hint="Lecturer Name"
+                    android:inputType="textPersonName" />
+            </LinearLayout>
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="269dp"
+            android:layout_height="wrap_content" >
+
+            <LinearLayout
+                android:layout_width="292dp"
+                android:layout_height="307dp"
+                android:orientation="vertical" >
+
+                <EditText
+                    android:id="@+id/EditText30"
+                    android:layout_width="wrap_content"
+                    android:layout_height="57dp"
+                    android:editable="true"
+                    android:ems="10"
+                    android:hint="Module ID"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/EditText34"
+                    android:layout_width="wrap_content"
+                    android:layout_height="59dp"
+                    android:ems="10"
+                    android:hint="Module Type"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/EditText28"
+                    android:layout_width="wrap_content"
+                    android:layout_height="58dp"
+                    android:ems="10"
+                    android:hint="Room Number"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/EditText32"
+                    android:layout_width="wrap_content"
+                    android:layout_height="60dp"
+                    android:ems="10"
+                    android:hint="Lecturer Name"
+                    android:inputType="textPersonName" />
+            </LinearLayout>
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="269dp"
+            android:layout_height="wrap_content" >
+
+            <LinearLayout
+                android:layout_width="292dp"
+                android:layout_height="307dp"
+                android:orientation="vertical" >
+
+                <EditText
+                    android:id="@+id/EditText37"
+                    android:layout_width="wrap_content"
+                    android:layout_height="57dp"
+                    android:editable="true"
+                    android:ems="10"
+                    android:hint="Module ID"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/EditText40"
+                    android:layout_width="wrap_content"
+                    android:layout_height="59dp"
+                    android:ems="10"
+                    android:hint="Module Type"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/EditText36"
+                    android:layout_width="wrap_content"
+                    android:layout_height="58dp"
+                    android:ems="10"
+                    android:hint="Room Number"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/EditText23"
+                    android:layout_width="wrap_content"
+                    android:layout_height="60dp"
+                    android:ems="10"
+                    android:hint="Lecturer Name"
+                    android:inputType="textPersonName" />
+            </LinearLayout>
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="269dp"
+            android:layout_height="wrap_content" >
+
+            <LinearLayout
+                android:layout_width="292dp"
+                android:layout_height="307dp"
+                android:orientation="vertical" >
+
+                <EditText
+                    android:id="@+id/EditText38"
+                    android:layout_width="wrap_content"
+                    android:layout_height="57dp"
+                    android:editable="true"
+                    android:ems="10"
+                    android:hint="Module ID"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/EditText33"
+                    android:layout_width="wrap_content"
+                    android:layout_height="59dp"
+                    android:ems="10"
+                    android:hint="Module Type"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/EditText35"
+                    android:layout_width="wrap_content"
+                    android:layout_height="58dp"
+                    android:ems="10"
+                    android:hint="Room Number"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/EditText29"
+                    android:layout_width="wrap_content"
+                    android:layout_height="60dp"
+                    android:ems="10"
+                    android:hint="Lecturer Name"
+                    android:inputType="textPersonName" />
+            </LinearLayout>
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="269dp"
+            android:layout_height="wrap_content" >
+
+            <LinearLayout
+                android:layout_width="292dp"
+                android:layout_height="307dp"
+                android:orientation="vertical" >
+
+                <EditText
+                    android:id="@+id/EditText22"
+                    android:layout_width="wrap_content"
+                    android:layout_height="57dp"
+                    android:editable="true"
+                    android:ems="10"
+                    android:hint="Module ID"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/EditText25"
+                    android:layout_width="wrap_content"
+                    android:layout_height="59dp"
+                    android:ems="10"
+                    android:hint="Module Type"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/EditText27"
+                    android:layout_width="wrap_content"
+                    android:layout_height="58dp"
+                    android:ems="10"
+                    android:hint="Room Number"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/EditText31"
+                    android:layout_width="wrap_content"
+                    android:layout_height="60dp"
+                    android:ems="10"
+                    android:hint="Lecturer Name"
+                    android:inputType="textPersonName" />
+            </LinearLayout>
+        </FrameLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/Img14to18"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ImageView
+            android:id="@+id/ImageView05"
+            android:layout_width="217dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_14" />
+
+        <ImageView
+            android:id="@+id/ImageView04"
+            android:layout_width="269dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_15" />
+
+        <ImageView
+            android:id="@+id/ImageView03"
+            android:layout_width="289dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_16" />
+
+        <ImageView
+            android:id="@+id/ImageView02"
+            android:layout_width="299dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_17" />
+
+        <ImageView
+            android:id="@+id/ImageView01"
+            android:layout_width="229dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_18" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/txt14to18"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <FrameLayout
+            android:layout_width="269dp"
+            android:layout_height="wrap_content" >
+
+            <LinearLayout
+                android:layout_width="292dp"
+                android:layout_height="307dp"
+                android:orientation="vertical" >
+
+                <EditText
+                    android:id="@+id/EditText01"
+                    android:layout_width="wrap_content"
+                    android:layout_height="57dp"
+                    android:editable="true"
+                    android:ems="10"
+                    android:hint="Module ID"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/EditText04"
+                    android:layout_width="wrap_content"
+                    android:layout_height="59dp"
+                    android:ems="10"
+                    android:hint="Module Type"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/EditText17"
+                    android:layout_width="wrap_content"
+                    android:layout_height="58dp"
+                    android:ems="10"
+                    android:hint="Room Number"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/EditText08"
+                    android:layout_width="wrap_content"
+                    android:layout_height="60dp"
+                    android:ems="10"
+                    android:hint="Lecturer Name"
+                    android:inputType="textPersonName" />
+            </LinearLayout>
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="269dp"
+            android:layout_height="wrap_content" >
+
+            <LinearLayout
+                android:layout_width="292dp"
+                android:layout_height="307dp"
+                android:orientation="vertical" >
+
+                <EditText
+                    android:id="@+id/EditText20"
+                    android:layout_width="wrap_content"
+                    android:layout_height="57dp"
+                    android:editable="true"
+                    android:ems="10"
+                    android:hint="Module ID"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/EditText14"
+                    android:layout_width="wrap_content"
+                    android:layout_height="59dp"
+                    android:ems="10"
+                    android:hint="Module Type"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/EditText02"
+                    android:layout_width="wrap_content"
+                    android:layout_height="58dp"
+                    android:ems="10"
+                    android:hint="Room Number"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/EditText18"
+                    android:layout_width="wrap_content"
+                    android:layout_height="60dp"
+                    android:ems="10"
+                    android:hint="Lecturer Name"
+                    android:inputType="textPersonName" />
+            </LinearLayout>
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="269dp"
+            android:layout_height="wrap_content" >
+
+            <LinearLayout
+                android:layout_width="292dp"
+                android:layout_height="307dp"
+                android:orientation="vertical" >
+
+                <EditText
+                    android:id="@+id/EditText05"
+                    android:layout_width="wrap_content"
+                    android:layout_height="57dp"
+                    android:editable="true"
+                    android:ems="10"
+                    android:hint="Module ID"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/EditText19"
+                    android:layout_width="wrap_content"
+                    android:layout_height="59dp"
+                    android:ems="10"
+                    android:hint="Module Type"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/EditText10"
+                    android:layout_width="wrap_content"
+                    android:layout_height="58dp"
+                    android:ems="10"
+                    android:hint="Room Number"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/EditText15"
+                    android:layout_width="wrap_content"
+                    android:layout_height="60dp"
+                    android:ems="10"
+                    android:hint="Lecturer Name"
+                    android:inputType="textPersonName" />
+            </LinearLayout>
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="269dp"
+            android:layout_height="wrap_content" >
+
+            <LinearLayout
+                android:layout_width="292dp"
+                android:layout_height="307dp"
+                android:orientation="vertical" >
+
+                <EditText
+                    android:id="@+id/EditText06"
+                    android:layout_width="wrap_content"
+                    android:layout_height="57dp"
+                    android:editable="true"
+                    android:ems="10"
+                    android:hint="Module ID"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/EditText12"
+                    android:layout_width="wrap_content"
+                    android:layout_height="59dp"
+                    android:ems="10"
+                    android:hint="Module Type"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/EditText09"
+                    android:layout_width="wrap_content"
+                    android:layout_height="58dp"
+                    android:ems="10"
+                    android:hint="Room Number"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/EditText03"
+                    android:layout_width="wrap_content"
+                    android:layout_height="60dp"
+                    android:ems="10"
+                    android:hint="Lecturer Name"
+                    android:inputType="textPersonName" />
+            </LinearLayout>
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="269dp"
+            android:layout_height="wrap_content" >
+
+            <LinearLayout
+                android:layout_width="292dp"
+                android:layout_height="307dp"
+                android:orientation="vertical" >
+
+                <EditText
+                    android:id="@+id/EditText13"
+                    android:layout_width="wrap_content"
+                    android:layout_height="57dp"
+                    android:editable="true"
+                    android:ems="10"
+                    android:hint="Module ID"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/EditText11"
+                    android:layout_width="wrap_content"
+                    android:layout_height="59dp"
+                    android:ems="10"
+                    android:hint="Module Type"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/EditText07"
+                    android:layout_width="wrap_content"
+                    android:layout_height="58dp"
+                    android:ems="10"
+                    android:hint="Room Number"
+                    android:inputType="textPersonName" />
+
+                <EditText
+                    android:id="@+id/EditText16"
+                    android:layout_width="wrap_content"
+                    android:layout_height="60dp"
+                    android:ems="10"
+                    android:hint="Lecturer Name"
+                    android:inputType="textPersonName" />
+            </LinearLayout>
+        </FrameLayout>
+    </LinearLayout>
+
+</LinearLayout>
